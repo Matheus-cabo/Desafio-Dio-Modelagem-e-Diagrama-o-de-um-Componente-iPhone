@@ -11,7 +11,7 @@ A apresentação do programa principal na linguagem Java, trás o contato do Usu
 - Obs: É necessário aplicar um zoom pra melhor visualização. 
 - Caso queira optar por ver em PDF, deixarei o arquivo ao lado para download.  [Modelando Iphone.pdf](https://github.com/user-attachments/files/16461172/Modelando.Iphone.pdf) 
 
-![Modelando Imagem](https://github.com/user-attachments/assets/b01fa4b0-4ed4-402d-a12c-0e73946f7098)
+![Modelando Imagem](https://github.com/user-attachments/assets/88604809-b14d-4971-be9e-f0a5edaffc23)
 
 A baixo, você encontrará uma descrição minuciosa de cada classe exibida no diagrama de classes do projeto. Cada classe tem um propósito específico e contribui para o funcionamento coeso do sistema.
 
