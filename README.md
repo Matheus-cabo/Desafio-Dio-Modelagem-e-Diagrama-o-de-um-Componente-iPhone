@@ -37,7 +37,7 @@ A baixo, você encontrará uma descrição minuciosa de cada classe exibida no d
 
 ### ``Safari| ItunesMusic| Telephone``
 
-- Classes Entidades exibidos como um software que é uma implementação das Interfaces. No caso do primeiro Iphone, para interagir com as funcionalidades, so tinha apenas esses 3 aplicativos. Os Atributos e Métodos dessas classes, são os mesmos que contém na Classe `Iphone`. Ou seja, para o Iphone de todas essas funcionalidades, ele precisa acessar cada Software Correspondente, (`Safari| ItunesMusic| Telephone`) de acordo com os Comandos da Classe ``Usuário``.
+- Classes Entidades exibidos como um software que é uma implementação das Interfaces. No caso do primeiro Iphone, para interagir com as funcionalidades, so tinha apenas esses 3 aplicativos. Os Atributos e Métodos dessas classes, são os mesmos que contém na Classe `Iphone`. Ou seja, para o Iphone ter todas essas funcionalidades, ele precisa acessar cada Software Correspondente, (`Safari| ItunesMusic| Telephone`), de acordo com os Comandos da Classe ``Usuário``.
 
 ### ``ArmazenamentoURL``
 
