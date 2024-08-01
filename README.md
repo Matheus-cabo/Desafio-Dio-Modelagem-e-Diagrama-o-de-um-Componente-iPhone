@@ -3,7 +3,7 @@
 ## 📝 Descrição
 Este repositório oferece uma implementação extensiva de um exercício de modelagem de software, com o objetivo de desempenhar de forma exata e completa as funcionalidades essencias do primeiro iPhone.
 
-O projeto apresenta os pilares primordiais da orientação a objetos da linguagem Java, assim como maneiras de utlização da modelagem em UML, apresentando de forma transparente a costrução das funcionalidades do primeiro Iphone, que tinha como função: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
+O projeto apresenta os pilares primordiais da orientação a objetos da linguagem Java, assim como maneiras de utlização da modelagem em UML, apresentando de forma transparente a construção das funcionalidades do primeiro Iphone, que tinha como função: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 A apresentação do programa principal na linguagem Java, trás o contato do Usuario com o Iphone, onde dependendo de qual função ele queira interagir, o programa irá realizar suas ordens. 
 
